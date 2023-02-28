@@ -21,3 +21,7 @@ include <script src="slider.js"></script>in <head> tag and add html in the <body
 
 The Slider will be initialized with a single content in carousel.
 
+# Deployment
+
+Demo for this app can be evaluated on https://isfandkhan.github.io/bayt-frontend-assessment/
+
